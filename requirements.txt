@@ -1,2 +1,4 @@
-sstreamlit
-google-generativeai
+streamlit
+requests
+pandas
+openpyxl
